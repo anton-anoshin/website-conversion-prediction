@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+__pycache__/
+data/
+test_jsons/
+eda_design_optimization.ipynb
+make_requirements.py
+README.md
+train.py
