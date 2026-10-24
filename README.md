@@ -65,7 +65,7 @@ http://localhost:8000/docs
 ## Структура проекта
 
 ```
-final_project/
+website-conversion-prediction/
 │
 ├─ data/
 │  ├─ processed/
@@ -87,6 +87,7 @@ final_project/
 │  └─ predict_class1.json
 │
 ├─ .dockerignore
+├─ .gitignore
 ├─ Dockerfile
 ├─ eda_design_optimization.ipynb           # EDA + разработка и оптимизация пайплайна + evaluation
 ├─ main.py                                 # FastAPI app + загрузка модели + /predict
